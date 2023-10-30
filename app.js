@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 // Data for testing (in-memory storage)
 let items = [
-  { id: 1, name: 'Alex' },
+  { id: 1, name: 'Manoj' },
   { id: 2, age: '32' },
   { id: 3, address: 'New Delhi' }
 ];
